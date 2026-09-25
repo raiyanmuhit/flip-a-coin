@@ -1,0 +1,8 @@
+body {
+    -webkit-tap-highlight-color: transparent;
+    user-select: none;
+}
+
+button, input, div {
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
