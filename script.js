@@ -14,10 +14,10 @@ const translations = {
         tails: "TAILS"
     },
     bn: {
-        title: "স্বাগতম কয়েন ফ্লিপ খেলায়",
-        button: "ফ্লিপ করুন",
-        heads: "হেড",
-        tails: "টেল"
+        title: "কয়েন ফ্লিপে স্বাগতম",
+        button: "ফ্লিপ করুন!",
+        heads: "হেড!",
+        tails: "টেল..."
     }
 };
 
